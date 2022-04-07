@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sonerturan
 - 👀 I’m interested in =>self-development
 - 🌱 I’m currently learning =>C#, Java, PYTHON, JavaScript
-<!---💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me =>Sonerturans609@gmail.com
+<!---💞️ I’m looking to collaborate on ...--->
 
 <!---
 Sonerturan/Sonerturan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
