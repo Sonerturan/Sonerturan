@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonerturan
 - 👀 I’m interested in =>self-development
-- 🌱 I’m currently learning =>C#, Java, PYTHON, JavaScript
+- 🌱 I’m currently learning =>C#, Java, PYTHON, JavaScript, SQL, MySQL, Wordpress
 - 📫 How to reach me =>Sonerturans609@gmail.com
 <!---💞️ I’m looking to collaborate on ...--->
 
