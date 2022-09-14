@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning =>C#, Java, PYTHON, JavaScript, SQL, MySQL, Wordpress
 - 📫 How to reach me =>Sonerturans609@gmail.com
 - 💼 How to reach me on Linkedin =>https://www.linkedin.com/in/soner-turan-05164a20a/
+- 💼 How to reach me on Replit =>https://replit.com/@SonerTuran
 <!---💞️ I’m looking to collaborate on ...--->
 
 <!---
